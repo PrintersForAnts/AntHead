@@ -1,4 +1,4 @@
-# AntHead
+# AntHead (Temp name, final name TBD) 
 Toolhead for Micron and other PFA printers 
 
 ![image](https://github.com/user-attachments/assets/506922f7-79d9-4ee6-ad26-bf17165f6eff)
