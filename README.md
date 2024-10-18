@@ -1,8 +1,6 @@
-# AntHead (Temp name, final name TBD) 
+# AntHead
 Toolhead for Micron and other PFA printers 
-
-![image](https://github.com/user-attachments/assets/506922f7-79d9-4ee6-ad26-bf17165f6eff)
-
+![image](https://github.com/user-attachments/assets/46479fa7-f2ea-4e98-a73c-22cb5ffeb9c2)
 
 ## BOM 
 * 2x 4010 blower fans 
