@@ -17,6 +17,11 @@ when mounting the fans, the front cover new to be removed prior to screwing it d
 
 ## Change log ##
 
+### 10-28-2024
+* Updated assembly to v20
+* Updated the LED to use the same style as Stealthburner that inserts from the bottom 
+* Fixed orientation of various files 
+
 ### 10-17-2024
 * Added latest CAD assembly
 * removed recesses in main housing as they arent needed anymore since hotend mount screws are recessed into the printed part
