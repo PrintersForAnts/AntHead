@@ -17,6 +17,10 @@ when mounting the fans, the front cover new to be removed prior to screwing it d
 
 ## Change log ##
 
+### 10-29-2024
+* Fixed issue #2 that was introduced with the latest LED changes from 10-28
+* updated main housings, and Cad file
+
 ### 10-28-2024
 * Updated assembly to v20
 * Updated the LED to use the same style as Stealthburner that inserts from the bottom 
