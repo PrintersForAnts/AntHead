@@ -14,6 +14,18 @@ Toolhead for Micron and other PFA printers
 when mounting the fans, the front cover new to be removed prior to screwing it down with 2 m2x6 
 ![image](https://media.discordapp.net/attachments/1115786683053518970/1287322145822605362/20240921_213730.jpg?ex=6709836c&is=670831ec&hm=054375f9e8a804d073cd9e0db3058fba8b0b910a66fb7c9942b31f0d38c19b01&)
 
+What Carriage Do I Print?
+
+Printer  | Rail 
+ ----|----|
+Micron/SF/Pandora | Stock [MGN9H](https://github.com/PrintersForAnts/Micron/blob/main/STLs/Gantry/Toolhead/MiniSB/MiniSB_x_carriage_MGN9H_x1.stl) | 
+Micron/SF/Pandora | Stock [MGN9C](https://github.com/PrintersForAnts/Micron/blob/main/STLs/Gantry/Toolhead/MiniSB/miniSB_x_carriage_x1.stl) |
+Micron/SF/Pandora | Chirpy  [MGN9H](https://github.com/chirpy2605/voron/blob/main/general/Alternative_Voron_Mounts/Modified_Mounts/Micron_Pandora/STLs/X_Carriage_MGN9H_Micron_Long.stl)
+Micron/SF/Pandora | Chirpy [MGN9C](https://github.com/chirpy2605/voron/blob/main/general/Alternative_Voron_Mounts/Modified_Mounts/Micron_Pandora/STLs/X_Carriage_MGN9C_Micron_Long.stl)
+V0 | Stock works but i recommend Chirpys that can be found [here](https://github.com/chirpy2605/voron/blob/main/general/Alternative_Voron_Mounts/Modified_Mounts/v0.2) 
+V2/Trident | Chirpys DB [MGN12H](https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts/Modified_Mounts/V1_V2/STLs/MGN12H)
+V2/Trident | Chirpys DB [MGN9H](https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts/Modified_Mounts/V1_V2/STLs/MGN9H)
+
 
 ## Change log ##
 
