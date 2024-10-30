@@ -12,9 +12,10 @@ Toolhead for Micron and other PFA printers
 
 
 when mounting the fans, the front cover new to be removed prior to screwing it down with 2 m2x6 
-![image](https://media.discordapp.net/attachments/1115786683053518970/1287322145822605362/20240921_213730.jpg?ex=6709836c&is=670831ec&hm=054375f9e8a804d073cd9e0db3058fba8b0b910a66fb7c9942b31f0d38c19b01&)
+![20240921_213730](https://github.com/user-attachments/assets/ab1f8089-46a0-4112-9aae-a728964323fd)
 
 What Carriage Do I Print?
+
 
 Printer  | Rail 
  ----|----|
