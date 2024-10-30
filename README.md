@@ -17,8 +17,13 @@ when mounting the fans, the front cover new to be removed prior to screwing it d
 
 ## Change log ##
 
-### 10-29-2024
-* Fixed issue #2 that was introduced with the latest LED changes from 10-28
+### 10-29-2024 #2
+* modified main housing to now support Sherpa bolt pattern as well as Orbiter 2 bolt pattern
+* ducts were updated to fit the latest change
+* a Base Grill cad file was uploaded so custom grills can be made 
+
+### 10-29-2024 #1
+* Fixed an issue that was introduced with the latest LED changes from 10-28
 * updated main housings, and Cad file
 
 ### 10-28-2024
