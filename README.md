@@ -30,6 +30,10 @@ V2/Trident | Chirpys DB [MGN9H](https://github.com/chirpy2605/voron/tree/main/ge
 
 ## Change log ##
 
+### 10-30-2024
+* Updated CAD to v29
+* missed exporting latest right fan ducts from previous commit, they worked but had an extra chamfer that needed to be removed  
+
 ### 10-29-2024 #2
 * modified main housing to now support Sherpa bolt pattern as well as Orbiter 2 bolt pattern
 * ducts were updated to fit the latest change
