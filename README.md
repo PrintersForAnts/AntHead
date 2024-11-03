@@ -11,7 +11,7 @@ Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based p
 * NOTE: if using a TZV6 hotend with the stock nozzle (small bambu style nozzle you need to use the dragon hotend mount)
 
 
-when mounting the fans, the front cover new to be removed prior to screwing it down with 2 m2x6 
+when mounting the fans, the front cover needs to be removed prior to screwing it down with 2 m2x6 
 ![20240921_213730](https://github.com/user-attachments/assets/ab1f8089-46a0-4112-9aae-a728964323fd)
 
 What Carriage Do I Print?
