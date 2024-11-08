@@ -8,7 +8,7 @@ Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based p
 * various m3 hardware 
 * BMG extruder kit , or G2 extruder kit (HGX variant is planned)
 * Dragon Compatible hotend, Revo Voron, Rapido, TZV6 with or without v6 nozzle
-* NOTE: if using a TZV6 hotend with the stock nozzle (small bambu style nozzle you need to use the dragon hotend mount)
+* NOTE: if using a TZV6 hotend with the stock nozzle (small bambu style nozzle) you need to use the dragon hotend mount
 
 
 when mounting the fans, the front cover needs to be removed prior to screwing it down with 2 m2x6 
