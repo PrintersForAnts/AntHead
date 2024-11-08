@@ -1,5 +1,5 @@
 # AntHead
-Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based printers with the carraiges linked below)
+Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based printers with the carriages linked below)
 ![image](https://github.com/user-attachments/assets/46479fa7-f2ea-4e98-a73c-22cb5ffeb9c2)
 
 ## BOM 
