@@ -1,5 +1,5 @@
 # AntHead
-Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based printers with the carraiges linked below)
+Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based printers with the carriages linked below)
 ![image](https://github.com/user-attachments/assets/46479fa7-f2ea-4e98-a73c-22cb5ffeb9c2)
 
 ## BOM 
@@ -8,10 +8,10 @@ Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based p
 * various m3 hardware 
 * BMG extruder kit , or G2 extruder kit (HGX variant is planned)
 * Dragon Compatible hotend, Revo Voron, Rapido, TZV6 with or without v6 nozzle
-* NOTE: if using a TZV6 hotend with the stock nozzle (small bambu style nozzle you need to use the dragon hotend mount)
+* NOTE: if using a TZV6 hotend with the stock nozzle (small bambu style nozzle) you need to use the dragon hotend mount
 
 
-when mounting the fans, the front cover new to be removed prior to screwing it down with 2 m2x6 
+when mounting the fans, the front cover needs to be removed prior to screwing it down with 2 m2x6 
 ![20240921_213730](https://github.com/user-attachments/assets/ab1f8089-46a0-4112-9aae-a728964323fd)
 
 What Carriage Do I Print?
