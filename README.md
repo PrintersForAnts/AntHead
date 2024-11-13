@@ -28,6 +28,14 @@ V2/Trident | Chirpys DB [MGN12H](https://github.com/chirpy2605/voron/tree/main/g
 V2/Trident | Chirpys DB [MGN9H](https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts/Modified_Mounts/V1_V2/STLs/MGN9H)
 
 
+
+## Future Plans ##
+* HGX Based extruder
+* Revisit BMG based extruder
+* Bowden option
+* Filament cutter
+* larger variety of hotend mounts
+
 ## Change log ##
 
 ### 10-30-2024
