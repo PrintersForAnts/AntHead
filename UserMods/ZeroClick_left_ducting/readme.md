@@ -26,6 +26,7 @@ Start by placing wire in the wire-guide of the front magnet-hole and let it stic
 
 ### Step 2
 Loop back the wire and place it back in the hole it comes out, but now in the wire-guide that goes underneat the fan. <br> 
+Carefully help the wires, that the loop disappears inside the ducting, and nothing is sticking out the back. <br>
 Not easy to draw in Rhino, to make a wire loop, but you will get it what i mean :blush: <br>
 <p align="center"><img width="300" src="assets/ZeroClick_wiring_step2.png"></p>
 
