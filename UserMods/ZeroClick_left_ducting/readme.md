@@ -17,3 +17,9 @@ The default parts for the ZeroClick are needed. <br>
 Extra parts could be the parts for the dock, depends on the user choice, what to use. <br>
 For the ZeroClick follow there github. <br>
 [Github link ZeroClick](https://github.com/zruncho3d/ZeroClick) 
+
+## How to wire the ducting
+Before following the ZeroClick manual, the explanation how the wiring has to be done
+### Step 1
+Start by placing the wire-guide in the front magnet-hole and stick out of the back 
+<p align="center"><img width="300" src="assets/ZeroClick_wiring_step1.png"></p>
