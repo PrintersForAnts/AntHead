@@ -9,6 +9,10 @@ There is that little space, that there can't be parts on the back of the toolhea
 This mod moves the probe to the side, to give free space on the back, to prevent this collision. <br>
 [Github link HexZero](https://github.com/Alexander-T-Moss/Hex-Zero) 
 
+## Which 3d parts are shared
+Only the modded parts can be find in this mod. <br>
+Non modded parts, that are the default AntHead parts and can be find in de main repository of the AntHead.
+
 ## Hardware needed for this mode
 ### For the AntHead
 Nothing extra is needed for the AntHead, when looking at the hardware. <br>
