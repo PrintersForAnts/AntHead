@@ -11,7 +11,8 @@ This mod moves the probe to the side, to give free space on the back, to prevent
 
 ## Which 3d parts are shared
 Only the modded parts can be find in this mod. <br>
-Non modded parts, that are the default AntHead parts and can be find in de main repository of the AntHead.
+Non modded parts, that are the default AntHead parts and can be find in de main repository of the AntHead. <br>
+Only the standard fan is modded. Other fan ductings are not changed, but could be done by de delivered CAD.
 
 ## Hardware needed for this mode
 ### For the AntHead
