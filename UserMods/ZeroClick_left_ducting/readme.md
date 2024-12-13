@@ -21,5 +21,19 @@ For the ZeroClick follow there github. <br>
 ## How to wire the ducting
 Before following the ZeroClick manual, the explanation how the wiring has to be done
 ### Step 1
-Start by placing the wire-guide in the front magnet-hole and stick out of the back 
+Start by placing wire in the wire-guide of the front magnet-hole and let it stick out of the back. <br> 
 <p align="center"><img width="300" src="assets/ZeroClick_wiring_step1.png"></p>
+
+### Step 2
+Loop back the wire and place it back in the hole it comes out, but now in the wire-guide that goes underneat the fan. <br> 
+Not easy to draw in Rhino, to make a wire loop, but you will get it what i mean :blush: <br>
+<p align="center"><img width="300" src="assets/ZeroClick_wiring_step2.png"></p>
+
+### Step 3
+Place the wire-guide of the back magnet-hole. <br> 
+This wire-guide hole is almost in line with the wire-guide underneat the fan, that you can route it in a single job. <br>
+<p align="center"><img width="300" src="assets/ZeroClick_wiring_step3.png"></p>
+
+### Step 4
+Now that the ZeroClick wires are near the fan, follow the wire route of the fan.
+How to finish the wiring for the ZeroClick magnets, see the ZeroClick manual on there github
