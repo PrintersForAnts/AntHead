@@ -12,4 +12,4 @@ Update the following table with the information about your mod:
 | Creator | Mod title | Description | Based on Version
 | --- | --- | --- | --- |
 | Hoeby | [ZeroClick on left ducting](/UserMods/ZeroClick_left_ducting) | Using ZeroClick on the side, to keep space in the back | Version V43 |
-| Hoeby | [Main_Body_HexZero_logo](/UserMods/Main_Body_HexZero_logo) | The AntHead mainbody with the HexZero logo, incl. led | Version V43 |
+| Hoeby | [Mainbody HexZero logo](/UserMods/Main_Body_HexZero_logo) | The AntHead mainbody with the HexZero logo, incl. led | Version V43 |
