@@ -33,7 +33,7 @@ V2/Trident | Chirpys DB [MGN9H](https://github.com/chirpy2605/voron/tree/main/ge
 * HGX Based extruder
 * Revisit BMG based extruder
 * Bowden option
-* Filament cutter
+* Filament cutter (in beta on discord)
 * larger variety of hotend mounts
 
 ## Change log ##
