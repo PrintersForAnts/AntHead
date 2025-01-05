@@ -38,6 +38,14 @@ V2/Trident | Chirpys DB [MGN9H](https://github.com/chirpy2605/voron/tree/main/ge
 
 ## Change log ##
 
+### 01-05-2025
+* updated rapido mount to sit lower for HF and UHF ducts
+* fixed fan intake hole size on right ducts
+* added updated hotend mounts with HF and UHF nozzle location
+* Added CAD and STLs for new 2020 printer carriage for MGN12h and MGN9h
+ 
+###
+
 ### 10-30-2024
 * Updated CAD to v29
 * missed exporting latest right fan ducts from previous commit, they worked but had an extra chamfer that needed to be removed  
