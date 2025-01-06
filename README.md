@@ -24,8 +24,8 @@ Micron/SF/Pandora | Stock [MGN9C](https://github.com/PrintersForAnts/Micron/blob
 Micron/SF/Pandora | Chirpy  [MGN9H](https://github.com/chirpy2605/voron/blob/main/general/Alternative_Voron_Mounts/Modified_Mounts/Micron_Pandora/STLs/X_Carriage_MGN9H_Micron_Long.stl)
 Micron/SF/Pandora | Chirpy [MGN9C](https://github.com/chirpy2605/voron/blob/main/general/Alternative_Voron_Mounts/Modified_Mounts/Micron_Pandora/STLs/X_Carriage_MGN9C_Micron_Long.stl)
 V0 | Stock works but i recommend Chirpys that can be found [here](https://github.com/chirpy2605/voron/blob/main/general/Alternative_Voron_Mounts/Modified_Mounts/v0.2) 
-V2/Trident | Chirpys DB [MGN12H](https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts/Modified_Mounts/V1_V2/STLs/MGN12H)
-V2/Trident | Chirpys DB [MGN9H](https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts/Modified_Mounts/V1_V2/STLs/MGN9H)
+V2/Trident | [MGN12H/MGN9H](https://github.com/PrintersForAnts/AntHead/tree/main/STLs/2020_Carriage)
+
 
 
 
