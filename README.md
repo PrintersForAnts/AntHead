@@ -38,6 +38,12 @@ V2/Trident | [MGN12H/MGN9H](https://github.com/PrintersForAnts/AntHead/tree/main
 
 ## Change log ##
 
+### 2-6-2025
+* updated all hotend mounts to fix the mounting screw length to m3x25
+* added support for Dragon Ace hotend
+* added support for ReVolcano (Revo voron heatsink with hemera heatbreak and volcano heater)
+* fixed rapido mount to use correct mounting m2.5 screws 
+
 ### 01-05-2025
 * updated rapido mount to sit lower for HF and UHF ducts
 * fixed fan intake hole size on right ducts
