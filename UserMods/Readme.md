@@ -13,3 +13,4 @@ Update the following table with the information about your mod:
 | --- | --- | --- | --- |
 | Hoeby | [ZeroClick on left ducting](/UserMods/ZeroClick_left_ducting) | Using ZeroClick on the side, to keep space in the back | Version V43 |
 | Hoeby | [Mainbody HexZero logo](/UserMods/Main_Body_HexZero_logo) | The AntHead mainbody with the HexZero logo, incl. led | Version V43 |
+| theFPVgeek | [Papilio Lite Extruder AntHead Mod](/UserMods/Papilio_Lite_Extruder_AntHead_Mod) | Papilio Lite Extruder modified for AntHead | Version V43 |
