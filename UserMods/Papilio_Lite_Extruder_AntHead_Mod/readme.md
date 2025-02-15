@@ -5,7 +5,7 @@
 
 ## About
 AntHead modified to integrate Papilio Lite<br>
-Wanted to lower the height of a standard AntHead with standard Papilio Lite extruder. <br>
-Thanks for the original creators of the Anthead and Papilio Lite for having solid base to use to make this work. <be>
+Wanted to lower the height of a standard AntHead with standard Papilio Lite extruder.<br>
+Thanks [hartk](https://github.com/hartk1213) the creator of the AntHead [Anthead](https://github.com/PrintersForAnts/AntHead) and [Kevinakasam](https://github.com/kevinakasam) the creator of the Papilio Lite [Papilio Lite](https://github.com/theFPVgeek/Papilio-Belt-Extruder/) for having solid base to use to make this work. <be>
 
 ![2025-01-07_09-32-13](https://github.com/user-attachments/assets/1e1f2af1-bae8-47ad-91ee-a4f3a1937b25)
