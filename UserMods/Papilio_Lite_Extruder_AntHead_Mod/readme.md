@@ -1,5 +1,12 @@
 # AntHead Papilio Lite Mod
 
+In Progress:  Leafcutter (Filament Cutter) + Integrated Runout Sensor
+
+<img width="500" alt="2025-02-20_23-15-28" src="https://github.com/user-attachments/assets/84117d05-675c-4d30-b46d-79fe62dcc502" />
+<img width="500" alt="2025-02-20_23-15-29" src="https://github.com/user-attachments/assets/4bc515ca-6688-4994-b93d-316b6ca47d53" />
+<img width="500" alt="2025-02-20_23-15-30" src="https://github.com/user-attachments/assets/f91d09c4-4940-4ae3-a554-0e56050bb2cd" />
+<img width="500" alt="2025-02-20_23-15-31" src="https://github.com/user-attachments/assets/57d4e421-7bd5-43b7-abb0-cf189543d983" />
+
 <img width="500" alt="2025-02-14_23-15-28" src="https://github.com/user-attachments/assets/17632ea5-4766-4836-a35d-071ee754239b" />
 <img width="500" alt="2025-02-14_23-15-53" src="https://github.com/user-attachments/assets/10599d39-7dc7-44e3-a5a6-0754593e0a82" />
 
