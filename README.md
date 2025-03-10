@@ -33,10 +33,21 @@ V2/Trident | [MGN12H/MGN9H](https://github.com/PrintersForAnts/AntHead/tree/main
 * HGX Based extruder
 * Revisit BMG based extruder
 * Bowden option
-* Filament cutter (in beta on discord)
 * larger variety of hotend mounts
 
 ## Change log ##
+
+### 2-17-2025
+* Updated all hotend mounts to now work with LeafCutter 
+* Added new Left Ducts for LeafCutter
+* Added cutting arm and blade holder
+* Hotend mounts and main bodies were also merged with leafcutter, now stock and cutter bodies and hotend mounts are the same files 
+
+### 2-6-2025
+* updated all hotend mounts to fix the mounting screw length to m3x25
+* added support for Dragon Ace hotend
+* added support for ReVolcano (Revo voron heatsink with hemera heatbreak and volcano heater)
+* fixed rapido mount to use correct mounting m2.5 screws 
 
 ### 01-05-2025
 * updated rapido mount to sit lower for HF and UHF ducts
