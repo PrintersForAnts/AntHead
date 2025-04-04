@@ -30,7 +30,7 @@ I had BMG gears lying around and wanted to use that for an AntHead build to use 
 | 1   | M3 x 12 BHCS                                  | Second mounting screw for the AntHead            |
 | 1   | M3 x 30 BHCS				| Mount Tension arm to body                 |
 | 1   | ECAS       | |
-| 1   | BMG hardware set                               | Set up for RIGDA or a one piece RIGDA Sherpa style gearset|
+| 1   | RIDGA / BMG hardware set                               | If standard BMG configure for RIDGA |
 | 2   | 20mm long 3mm internally threaded stand off  | To attach toolhead board to the back of the extruder motor                    |
 
 ## Printing parts
