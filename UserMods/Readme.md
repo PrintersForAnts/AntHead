@@ -16,3 +16,4 @@ Update the following table with the information about your mod:
 | Hoeby | [Mainbody HexZero logo](/UserMods/Main_Body_HexZero_logo) | The AntHead mainbody with the HexZero logo, incl. led | Version V43 |
 | MakerMylo | [Screwless Hotend Fan Mount](/UserMods/Screwless_Hotend_Fan_Mount) | A mount for the hotend fan that uses pegs to attach to the hotend. | Version V50 |
 | theFPVgeek | [Papilio Lite Extruder AntHead Mod](/UserMods/Papilio_Lite_Extruder_AntHead_Mod) | Papilio Lite Extruder modified for AntHead | Version V43 |
+| MacLakey | [REVO 6 Hotend Mount](\UserMods\Revo6_Hotend_Mount_and_Main_Body) | REVO 6 mount for SF | Version V72 |
