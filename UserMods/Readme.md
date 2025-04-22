@@ -17,3 +17,4 @@ Update the following table with the information about your mod:
 | MakerMylo | [Screwless Hotend Fan Mount](/UserMods/Screwless_Hotend_Fan_Mount) | A mount for the hotend fan that uses pegs to attach to the hotend. | Version V50 |
 | theFPVgeek | [Papilio Lite Extruder AntHead Mod](/UserMods/Papilio_Lite_Extruder_AntHead_Mod) | Papilio Lite Extruder modified for AntHead | Version V43 |
 | Cyph3r42 | [Wristwatch-BMG dual sensor Extruder](/UserMods/Wristwatch-BMG) | A4T WW-BMG Extruder modified for AntHead | Version V72 |
+| ChrisFo | [SBFI Leafcutter actuator](/UserMods/SBFI_Actuator) | Clip-on leafcutter actuator/depressor for use on V2.4 | Version V72 |
