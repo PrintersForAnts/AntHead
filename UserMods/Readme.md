@@ -18,3 +18,4 @@ Update the following table with the information about your mod:
 | theFPVgeek | [Papilio Lite Extruder AntHead Mod](/UserMods/Papilio_Lite_Extruder_AntHead_Mod) | Papilio Lite Extruder modified for AntHead | Version V43 |
 | Cyph3r42 | [Wristwatch-BMG dual sensor Extruder](/UserMods/Wristwatch-BMG) | A4T WW-BMG Extruder modified for AntHead | Version V72 |
 | ChrisFo | [SBFI Leafcutter actuator](/UserMods/SBFI_Actuator) | Clip-on leafcutter actuator/depressor for use on V2.4 | Version V72 |
+| burkfers | [Bearing cutting surface](/UserMods/Bearing_cutting_surface) | Uses a small MR63 or 683 bearing as a shearing surface for leafcutter | Version V72 |
