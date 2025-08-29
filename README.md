@@ -15,10 +15,6 @@ Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based p
 * Dragon Compatible hotend, Revo Voron, Rapido, TZV6 with or without v6 nozzle
 * NOTE: if using a TZV6 hotend with the stock nozzle (small bambu style nozzle) you need to use the dragon hotend mount
 
-
-when mounting the fans, the front cover needs to be removed prior to screwing it down with 2 m2x6 
-![20240921_213730](https://github.com/user-attachments/assets/ab1f8089-46a0-4112-9aae-a728964323fd)
-
 What Carriage Do I Print?
 
 
@@ -33,7 +29,6 @@ V2/Trident | [MGN12H/MGN9H](https://github.com/PrintersForAnts/AntHead/tree/main
 
 
 
-
 ## Future Plans ##
 * HGX Based extruder
 * Revisit BMG based extruder
@@ -42,11 +37,38 @@ V2/Trident | [MGN12H/MGN9H](https://github.com/PrintersForAnts/AntHead/tree/main
 
 ## Change log ##
 
+### 8-2-2025
+* fixed offset between ducts and probe mounts that was introduced with the previous fix 
+
+### 7-28-2025
+* fixed offset between hotend mount and rear of ducts causing toolhead to tilt
+* added flanged m2 heatsets in the filament path between the main body and hotend mount for use with the leafcutter 
+
+### 6-15-2025
+* Uploaded first version of assembly Manual 
+
+### 6-10-2025
+* Updated WWG2, fixed minor printablity issues
+* fixed alignment on the filament sensors screw holes
+
+### 5-27-2025
+* Added Stealthfork Logo main body and LED files
+* Added X endstop cable channel to the 2020 Carriage
+
+### 4-15-2025
+* Fixed fitment issue with ReVolcano mount 
+
+### 4-11-2025
+* Fixed G2 tension arm spring counterbore,
+* Added Ziptie mounts for easier wire management behind ducts
+* Updated Tension arm built in support
+
 ### 2-17-2025
 * Updated all hotend mounts to now work with LeafCutter 
 * Added new Left Ducts for LeafCutter
 * Added cutting arm and blade holder
-* Hotend mounts and main bodies were also merged with leafcutter, now stock and cutter bodies and hotend mounts are the same files 
+* Hotend mounts and main bodies were also merged with leafcutter, now stock and cutter bodies and hotend mounts are the same files
+* Added missing tzv6 mounts and re uploaded latest hotend line up cad file
 
 ### 2-6-2025
 * updated all hotend mounts to fix the mounting screw length to m3x25
@@ -59,8 +81,6 @@ V2/Trident | [MGN12H/MGN9H](https://github.com/PrintersForAnts/AntHead/tree/main
 * fixed fan intake hole size on right ducts
 * added updated hotend mounts with HF and UHF nozzle location
 * Added CAD and STLs for new 2020 printer carriage for MGN12h and MGN9h
- 
-###
 
 ### 10-30-2024
 * Updated CAD to v29
