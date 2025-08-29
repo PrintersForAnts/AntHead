@@ -1,9 +1,11 @@
 # AntHead
 Toolhead for Micron and other PFA printers (Can also work on bigger 2020 based printers with the carriages linked below)
-![image](https://github.com/user-attachments/assets/46479fa7-f2ea-4e98-a73c-22cb5ffeb9c2)
 
+<img width="2560" height="1437" alt="ANTHEAD GHREADME" src="https://github.com/user-attachments/assets/aeba7a5b-7b23-4ddc-95bf-e3ce7ebd24ae" />
 
 # [Printed Part Configurator ](https://anthead.wizards-enclave.net/)
+
+# [Color Configurator](https://hartk1213.github.io/ChromaColony/)
 
 ## BOM 
 * 2x 4010 blower fans 
