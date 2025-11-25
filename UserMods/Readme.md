@@ -13,8 +13,10 @@ Update the following table with the information about your mod:
 | --- | --- | --- | --- |
 | Averen | [LED Solder Fixture](/UserMods/LED_Solder_Fixture) | Fixture for soldering up Nozzle LEDs and Body LED | Version V63 |
 | Hoeby | [ZeroClick on left ducting](/UserMods/ZeroClick_left_ducting) | Using ZeroClick on the side, to keep space in the back | Version V43 |
-| Hoeby | [Mainbody HexZero logo](/UserMods/Main_Body_HexZero_logo) | The AntHead mainbody with the HexZero logo, incl. led | Version V43 |
+|| [Mainbody HexZero logo](/UserMods/Main_Body_HexZero_logo) | The AntHead mainbody with the HexZero logo, incl. led | Version V43 |
 | MakerMylo | [Screwless Hotend Fan Mount](/UserMods/Screwless_Hotend_Fan_Mount) | A mount for the hotend fan that uses pegs to attach to the hotend. | Version V50 |
 | theFPVgeek | [Papilio Lite Extruder AntHead Mod](/UserMods/Papilio_Lite_Extruder_AntHead_Mod) | Papilio Lite Extruder modified for AntHead | Version V43 |
 | Cyph3r42 | [Wristwatch-BMG dual sensor Extruder](/UserMods/Wristwatch-BMG) | A4T WW-BMG Extruder modified for AntHead | Version V72 |
 | burkfers | [Bearing cutting surface](/UserMods/Bearing_cutting_surface) | Uses a small MR63 or 683 bearing as a shearing surface for leafcutter | Version V72 |
+| hartk | [Crossbow](/UserMods/hartk/crossbow) | mount to use the crossbow filament cutter | latest |
+|| [Trident Umbilical](/UserMods/hartk/Trident_Umbilcal) | umbilical mount for trident| latest |
