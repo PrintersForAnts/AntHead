@@ -29,6 +29,10 @@ I had BMG gears lying around and wanted to use that for an AntHead build to use 
 | 3   | M3 x 14 BHCS                 | Bottom Motor mount.  You'll need M3x14 for mounting to the AntHead and for the LeafCutter lever arm | 
 | 1   | M3 x 12 BHCS                                  | Second mounting screw for the AntHead            |
 | 1   | M3 x 30 BHCS				| Mount Tension arm to body                 |
+| 2   | D2F switch without levers   | Used for filament sensors  |
+| 4   | 24-26ga wire                | Wiring filament sensors, available space is tight |
+| 2   | 5mm round ball bearings     | Used for filament sensors  |
+| 4   | M2x14 self-tapping screws   | Used for filament sensors  |
 | 1   | ECAS       | |
 | 1   | RIDGA / BMG hardware set                               | If standard BMG configure for RIDGA |
 | 2   | 20mm long 3mm internally threaded stand off  | To attach toolhead board to the back of the extruder motor                    |
@@ -39,6 +43,20 @@ Parts are meant to be printed in 0.2mm layer heights, 0.25mm first layer should 
 Print testing is still TBD<br/>
 
 Voron settings are a good starting point for 0.4mm wall widths (four walls, 5 top/bottom layers and 40% infill).<br/>
+
+The sensor shim has only been tested at 0.1mm layer heights with 2 walls, printing multiple to avoid layer overheating on a single part.<br/>
+It is recommended to test fit the plug before assembly to verify the switch gets actuated.<br/>
+
+## Sensor installation
+1. Test the orientation for the D2F switches, and bend the legs to fit in the space. Solder leads to the legs and put aside.
+2. Insert the ball bearing into the upper sensor channel, then slide the plug in, curved side facing the ball bearing.
+3. Fit the switch into the space and ensure that the switch is not actuated.
+4. Holding the switch in place, insert a length of filament into the primary filament path and listen for the switch. It should actuate when the filament passes the ball bearing.
+5. Secure the switch in place with self-tapping screws.
+6. Install the ball bearing in the lower sensor channel. No shim should be required.
+7. Repeat the test fit steps for the upper sensor on the lower sensor.
+8. Secure the lower sensor with self-tapping screws.
+9. Route wires to reach the toolhead board.
 
 ### Credits
 * Huge thanks to DW-Tas for the bulk of the modifications to the Wristwatch for dual sensors
